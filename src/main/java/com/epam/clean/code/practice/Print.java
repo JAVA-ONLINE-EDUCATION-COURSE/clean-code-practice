@@ -8,7 +8,6 @@ import com.epam.clean.code.practice.thirdpartyjar.View;
 
 import java.util.List;
 
-
 public class Print implements Command {
 
     private View view;
